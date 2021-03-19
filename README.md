@@ -23,3 +23,6 @@ This boxplot image above shows us that stores are selling an average of 2000 ite
 ![image](https://user-images.githubusercontent.com/77650918/111381974-05649580-866c-11eb-9c8f-48c5559b2775.png)
 
 The heatmap image above shows the level of correlation between each variable. According to this heatmap, The highest correlated variable to our target variable, which is item sales, is the items MRP. This is followed by item weight and outlet establishment year
+![image](https://user-images.githubusercontent.com/77650918/111835030-0985f280-88ba-11eb-9f50-92dbebeef190.png)
+
+The above image shows the results of the Random Forest Regressor model. Item MRP, Outlet Type, and Item Visibility seem to be the most important variables related to sales. 
